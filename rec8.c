@@ -9,9 +9,9 @@ f=n;
     if(n)
     {
 f=n%2;
-biyn(n/2);
 printf("%d",f);
-    }
+biyn(n/2);
+ }
     else
     return ;
 
